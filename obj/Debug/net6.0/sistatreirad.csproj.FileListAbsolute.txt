@@ -1,0 +1,15 @@
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/bin/Debug/net6.0/sistatreirad
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/bin/Debug/net6.0/sistatreirad.deps.json
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/bin/Debug/net6.0/sistatreirad.runtimeconfig.json
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/bin/Debug/net6.0/sistatreirad.dll
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/bin/Debug/net6.0/sistatreirad.pdb
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.csproj.AssemblyReference.cache
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.AssemblyInfoInputs.cache
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.AssemblyInfo.cs
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.csproj.CoreCompileInputs.cache
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.dll
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/refint/sistatreirad.dll
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.pdb
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/sistatreirad.genruntimeconfig.cache
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Debug/net6.0/ref/sistatreirad.dll

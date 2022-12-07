@@ -1,0 +1,5 @@
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Release/net6.0/sistatreirad.csproj.AssemblyReference.cache
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Release/net6.0/sistatreirad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Release/net6.0/sistatreirad.AssemblyInfoInputs.cache
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Release/net6.0/sistatreirad.AssemblyInfo.cs
+/Users/kristofferjonsson/Projects/sistatreirad/sistatreirad/obj/Release/net6.0/sistatreirad.csproj.CoreCompileInputs.cache
